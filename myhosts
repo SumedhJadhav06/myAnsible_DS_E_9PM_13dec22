@@ -23,5 +23,5 @@
 
 
 [myWebServers:vars]
-mywebpackonubutu= apache2222
+mywebpackonubutu= apache2
 mywebpackonredhat= httpd

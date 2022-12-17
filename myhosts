@@ -15,3 +15,13 @@
 
 [myRedhatServers]
 172.31.16.71
+
+
+
+172.31.16.71
+172.31.16.71
+
+
+[myWebServers:vars]
+mywebpackonubutu= apache2222
+mywebpackonredhat= httpd

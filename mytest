@@ -1,0 +1,14 @@
+[mygroup]
+host01 java8
+host02 java8
+host03 java8
+host04 java11
+host05 java8
+
+
+NOTE
+1) Group vars Scope upto Group
+2) host  vars scope upto a Host
+
+*  ansible gives alwayd more priority to host vars then Group vars
+

@@ -22,6 +22,3 @@
 172.31.16.71
 
 
-[myWebServers:vars]
-mywebpackonubutu= apache2
-mywebpackonredhat= httpd
